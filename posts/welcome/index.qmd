@@ -1,0 +1,12 @@
+---
+title: "Bienvenidos a este blog"
+author: "Juanjo Medina"
+date: "2025-07-14"
+categories: [news]
+---
+
+Esta es la primera entrada en este blog, que aspira a ser un espacio para la reflexión sobre la seguridad pública, la delincuencia, y nuestras formas de hablar y reaccionar en relación con estos temas. Aunque quienes lo coordinamos somos académicos, nuestra visión es poder alcanzar un público diverso y no constreñido al ámbito científico.
+
+Bla, bla, bla...
+
+![](thumbnail.jpg)
