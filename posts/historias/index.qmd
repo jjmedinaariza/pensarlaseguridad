@@ -1,0 +1,9 @@
+---
+title: "Historias de la policía"
+author: "Juanjo Medina"
+date: "2025-09-30"
+categories: [libros]
+image: "image.jpg"
+---
+
+Próximamente.

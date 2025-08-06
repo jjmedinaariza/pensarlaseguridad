@@ -1,6 +1,6 @@
 ---
 title: "Sobre este blog"
-image: profile.jpg
+image: viejas.jpg
 about:
   template: jolla
   links:
